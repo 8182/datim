@@ -1,0 +1,2 @@
+python-telegram-bot
+cowpy==1.0.3
