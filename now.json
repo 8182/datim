@@ -1,7 +1,7 @@
 {
   "version": 2,
   "public": true,
-  "name": "python-deployment",
+  "name": "moo",
   "builds": [
     { "src": "*.py", "use": "@now/python" }
   ]
